@@ -1,0 +1,9 @@
+exit
+،
+
+nano package.json
+npm install
+
+npm start
+npm install
+
