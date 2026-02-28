@@ -1,0 +1,34 @@
+
+
+Edit
+
+Preview
+Indent mode
+
+Spaces
+Indent size
+
+2
+Line wrap mode
+
+No wrap
+Editing file contents
+  1
+  2
+  3
+  4
+  5
+  6
+  7
+  8
+  9
+ 10
+index.html
+<!DOCTYPE html>
+<html>
+<body>
+    <h1>خوش آمدید به فرش بازار</h1>
+    <p>سایت در حال آماده‌سازی است...</p>
+</body>
+</html>
+
